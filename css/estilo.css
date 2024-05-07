@@ -374,15 +374,11 @@ textarea {
     
 }
 
-.producto {
-    align-items: center;
-    padding: 10px;
-    
+.card {
+    width: 200px;
 }
 
-.productos img {
-    display: flex;
-
-   
-    
+.card-img-top {
+    width: 100%;
+    height: auto;
 }
