@@ -111,6 +111,7 @@ function actualizarTotal() {
 }
 
 botonComprar.addEventListener("click", comprarCarrito);
+
 function comprarCarrito() {
   productosEnCarrito.length = 0;
   localStorage.setItem(
@@ -123,6 +124,7 @@ function comprarCarrito() {
   contenedorCarritoAcciones.classList.add("disabled");
   contenedorCarritoComprado.classList.remove("disabled");
 }
+
 
 
 

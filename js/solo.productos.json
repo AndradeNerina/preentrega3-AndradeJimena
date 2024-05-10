@@ -1,0 +1,125 @@
+[
+    {
+      "id": "pantalon-1",
+      "titulo": "Pantalon 1",
+      "imagen": "../img/pant01.jpg",
+      "categoria": {
+        "nombre": "Pantalones",
+        "id": "pantalones"
+      },
+      "precio": 15000
+    },
+    {
+        "id": "pantalon-2",
+        "titulo": "Pantalon 2",
+        "imagen": "../img/pant02.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 11500
+    },
+    {
+        "id": "pantalon-3",
+        "titulo": "Pantalon 3",
+        "imagen": "../img/pant03.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 12500
+    },
+    {
+        "id": "pantalon-4",
+        "titulo": "Pantalon 4",
+        "imagen": "../img/pant01.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 13500
+    },
+    {
+        "id": "pantalon-5",
+        "titulo": "Pantalon 5",
+        "imagen": "../img/pant02.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 15600
+    },
+  
+    {
+        "id": "pantalon-6",
+        "titulo": "Pantalon 6",
+        "imagen": "../img/pant03.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 15900
+    },
+    {
+        "id": "pantalon-7",
+        "titulo": "Pantalon 7",
+        "imagen": "../img/pant01.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 18600
+    },
+    {
+        "id": "pantalon-8",
+        "titulo": "Pantalon 8",
+        "imagen": "../img/pant02.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "pantalon-9",
+        "titulo": "Pantalon 9",
+        "imagen": "../img/pant03.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 20500
+    },
+    {
+        "id": "pantalon-10",
+        "titulo": "Pantalon 10",
+        "imagen": "../img/pant01.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 11500
+    },
+    {
+        "id": "pantalon-11",
+        "titulo": "Pantalon 11",
+        "imagen": "../img/pant02.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 15400
+    },
+    {
+        "id": "pantalon-12",
+        "titulo": "Pantalon 12",
+        "imagen": "../img/pant03.jpg",
+        "categoria": {
+          "nombre": "Pantalones",
+          "id": "pantalones"
+        },
+        "precio": 17500
+    }
+  
+  ]
+  
